@@ -7,3 +7,6 @@ invisible: false
 tags:
 - external-secrets
 - Secret Management
+deployTo:
+  control_plane: true
+  runtime_cluster: true
