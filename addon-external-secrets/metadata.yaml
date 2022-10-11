@@ -1,0 +1,9 @@
+name: addon-external-secrets
+version: 0.4.4
+description: An addon for KubeVela.
+icon: "https://github.com/kaz-tk/oam-addons/"
+url: https://github.com/external-secrets/external-secrets/
+invisible: false
+tags:
+- external-secrets
+- Secret Management
