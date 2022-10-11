@@ -1,6 +1,6 @@
-name: addon-external-secrets
+name: external-secrets
 version: 0.4.4
-description: An addon for KubeVela.
+description: An addon of external-secrets for KubeVela
 icon: "https://raw.githubusercontent.com/kaz-tk/kubevela-catalog-community/main/catalog/external-secrets/imgs/eso-logo-large.png"
 url: https://github.com/external-secrets/external-secrets/
 invisible: false
